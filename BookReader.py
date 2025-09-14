@@ -5,7 +5,6 @@ BookReader: Kiểm thử pipeline Camera -> OCR -> TTS trên Raspberry Pi 4
 - Có preview camera bằng OpenCV
 - Điều khiển bằng phím: Enter = chụp & đọc, 'q' + Enter = thoát
 """
-
 import sys
 import signal
 import tempfile
